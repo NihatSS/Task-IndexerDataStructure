@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Task-IndexerDataStructure\Task-IndexerDataStructure\bin\Debug\net6.0\Task-IndexerDataStructure.exe
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Task-IndexerDataStructure\Task-IndexerDataStructure\bin\Debug\net6.0\Task-IndexerDataStructure.deps.json
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Task-IndexerDataStructure\Task-IndexerDataStructure\bin\Debug\net6.0\Task-IndexerDataStructure.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Task-IndexerDataStructure\Task-IndexerDataStructure\bin\Debug\net6.0\Task-IndexerDataStructure.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Task-IndexerDataStructure\Task-IndexerDataStructure\bin\Debug\net6.0\Task-IndexerDataStructure.pdb
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Task-IndexerDataStructure\Task-IndexerDataStructure\obj\Debug\net6.0\Task-IndexerDataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Task-IndexerDataStructure\Task-IndexerDataStructure\obj\Debug\net6.0\Task-IndexerDataStructure.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Task-IndexerDataStructure\Task-IndexerDataStructure\obj\Debug\net6.0\Task-IndexerDataStructure.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Task-IndexerDataStructure\Task-IndexerDataStructure\obj\Debug\net6.0\Task-IndexerDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Task-IndexerDataStructure\Task-IndexerDataStructure\obj\Debug\net6.0\Task-IndexerDataStructure.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Task-IndexerDataStructure\Task-IndexerDataStructure\obj\Debug\net6.0\refint\Task-IndexerDataStructure.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Task-IndexerDataStructure\Task-IndexerDataStructure\obj\Debug\net6.0\Task-IndexerDataStructure.pdb
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Task-IndexerDataStructure\Task-IndexerDataStructure\obj\Debug\net6.0\Task-IndexerDataStructure.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Task-IndexerDataStructure\Task-IndexerDataStructure\obj\Debug\net6.0\ref\Task-IndexerDataStructure.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\Task-IndexerDataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{967E1B60-37BF-4FA6-A515-31160FA6A084}|Task-IndexerDataStructure\\Task-IndexerDataStructure.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\c#-tasks\\task-indexerdatastructure\\task-indexerdatastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967E1B60-37BF-4FA6-A515-31160FA6A084}|Task-IndexerDataStructure\\Task-IndexerDataStructure.csproj|solutionrelative:task-indexerdatastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967E1B60-37BF-4FA6-A515-31160FA6A084}|Task-IndexerDataStructure\\Task-IndexerDataStructure.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\c#-tasks\\task-indexerdatastructure\\task-indexerdatastructure\\intarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967E1B60-37BF-4FA6-A515-31160FA6A084}|Task-IndexerDataStructure\\Task-IndexerDataStructure.csproj|solutionrelative:task-indexerdatastructure\\intarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IntArray.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\Task-IndexerDataStructure\\Task-IndexerDataStructure\\IntArray.cs",
+              "RelativeDocumentMoniker": "Task-IndexerDataStructure\\IntArray.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\Task-IndexerDataStructure\\Task-IndexerDataStructure\\IntArray.cs",
+              "RelativeToolTip": "Task-IndexerDataStructure\\IntArray.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:58:05.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\Task-IndexerDataStructure\\Task-IndexerDataStructure\\Program.cs",
+              "RelativeDocumentMoniker": "Task-IndexerDataStructure\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\Task-IndexerDataStructure\\Task-IndexerDataStructure\\Program.cs",
+              "RelativeToolTip": "Task-IndexerDataStructure\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:49:01.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
